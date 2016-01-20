@@ -10,6 +10,8 @@ namespace InputToFile
 	{
 		public static void Main (string[] args)
 		{
+			// Borrowed heavily from Dan Parker: https://www.youtube.com/watch?v=glyfSt5mh1Y
+
 			// Take 5 string inputs -> Store them in an array
 			  // -> Write the array to text file 
 			
